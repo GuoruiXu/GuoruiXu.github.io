@@ -6,10 +6,9 @@
   <tr>
     <td width="70%">
       <p><b>  Name: Guorui Xu </b></p>
-      <p><b>  Gender：Male
-      <p><b>  Birth: 12.2002 </b></p>
-      <p><b>  Home Add: China - Jiangsu - Lianyungang</b></p>
-      <p><b>  Email: 202000171045@mail.sdu.edu.cn
+      <p><b>  Gender：Male    Birth: 12.2002</b></p>
+      <p><b>  Address: China - Jiangsu - Lianyungang </b></p>
+      <p><b>  Email: 202000171045@mail.sdu.edu.cn </b></p>
     </td>
     <td width="30%">
       <img src="image.jpg" width="100%"> 
@@ -20,24 +19,24 @@
 ### Mathematics interest
 > + ** Harmonic analysis and representation theory.**
 
-## Education
+### Education
 
 > + **2020 —— Now: (Undergraduate) Shandong University - Mathematics college ([Shandong University](https://www.sdu.edu.cn/) and [SDU - Mathematics college](https://www.math.sdu.edu.cn/));**
 
 
-## Some Notes About Mathematics
+### Some Notes About Mathematics
 
-## Seminars
+### Seminars
 > + **(2022 Spring) Probabilistic number theory and its applications:**(Professor: Xianchang Meng)
 > + **(2022 Autumn) Lie algebras and its representations:**(organizer：Ziwei Wei)
 
-## Undergraduate Research and Summer School
+### Undergraduate Research and Summer School
 > + **(2022 Summer) Postgraduate Summer School about Dirac cohomology and Langlands functoriality:**(speaker：Jingsong Huang)
 > + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (advisor: Xianchang Meng) 
 
 ### My CV
 > **Coming Soon.**
 
-## Links of My Friends
+### Links of My Friends
 > [Liu Xiaolong’s Homepage]([(https://dvlxlwz.github.io/)])
 
