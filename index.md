@@ -6,6 +6,7 @@
   <tr>
     <td width="70%">
       <p><b>  Name: Guorui Xu </b></p>
+      <p><b>  Gender：Male
       <p><b>  Birth: 12.2002 </b></p>
       <p><b>  Home Add: China - Jiangsu - Lianyungang</b></p>
       <p><b>  Email: 202000171045@mail.sdu.edu.cn
@@ -17,7 +18,7 @@
 </table>
 
 ### Mathematics interest
-> +** Harmonic analysis and representation theory.**
+> + ** Harmonic analysis and representation theory.**
 
 ## Education
 
