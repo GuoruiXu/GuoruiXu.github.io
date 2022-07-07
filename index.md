@@ -18,20 +18,20 @@
 </table>
 
 ### Mathematics interest
-> + ** Harmonic analysis and representation theory.**
+> + **Harmonic analysis and representation theory.**
 
 ### Education
 
 > + **2020 —— Now: (Undergraduate) Shandong University - Mathematics college ([Shandong University](https://www.sdu.edu.cn/) and [SDU - Mathematics college](https://www.math.sdu.edu.cn/));**
 
 
-### Some Notes About Mathematics
-
 ### Seminars
 > + **(2022 Spring) Probabilistic number theory and its applications:**(Professor: Xianchang Meng)
 > + **(2022 Autumn) Lie algebras and its representations:**(organizer：Ziwei Wei)
 
-### Undergraduate Research and Summer School
+### Mathematical notes
+
+### Summer School and Undergraduate Research
 > + **(2022 Summer) Postgraduate Summer School about Dirac cohomology and Langlands functoriality:**(speaker：Jingsong Huang)
 > + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (advisor: Xianchang Meng) 
 
