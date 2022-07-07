@@ -1,12 +1,12 @@
-# Liu Xiaolong's Homepage
+# Guorui Xu's homepage
 ## About me
 ### Basic Information
 
 <table border="0">
   <tr>
     <td width="70%">
-      <h3> + Name: Liu Xiaolong (刘 晓龙 or 劉 暁龍)</h3>
-      <p><b> + Home Add: China - Shanxi - Taiyuan</b></p>
+      <h3> + Name: Guorui Xu (徐国瑞)</h3>
+      <p><b> + Home Add: China - Jiangsu - Lianyungang</b></p>
       <p><b> + Education Background for Now: Bachelor Degree in Mathematics</b></p>
       <p><b> + 桂华满兮明月辉，扶桑晓兮白日飞。玉颜灭兮蝼蚁聚，碧台空兮歌舞稀。与天道兮共尽，莫不委骨而同归。  ——《拟恨赋》李白</b></p>
     </td>
@@ -24,23 +24,11 @@
 
 ## Education
 
-> + **2019 —— Now: (Undergraduate) Shandong University - TaiShan Collage ([Shandong University](https://www.sdu.edu.cn/) and [SDU - Taishan Collage](https://www.tsxt.sdu.edu.cn/));**
+> + **2020 —— Now: (Undergraduate) Shandong University - Mathematics School ([Shandong University](https://www.sdu.edu.cn/) and [SDU - Taishan Collage](https://www.math.sdu.edu.cn/));**
 
-> + **2016 —— 2019: (High School) Taiyuan No.2 Foreign Language School;**
 
 ## Some Notes About Mathematics
-> + [Errata and Notes for Illusie's Topics in Algebraic Geometry](/IllusieErrataNotes.pdf): **(Finished yet at 2022/03/28)** We will fix some typo and errors in this book and take some notes in this file. **I omitted the subsection I.4.14, the section III.4 and the chapter IV!** The original book see [Illusie](http://staff.ustc.edu.cn/~yiouyang/Illusie.pdf).
 
-> + [Review of Basic Algebraic Topology](/SomeAT.pdf):  **(Finished yet at 2022/05/06)** This is a review of basic algebraic topology including the first three chapter of A. Hatcher's book, including fundamental groups, covering spaces, homology and cohomology theory. Moreover we give some proofs of some famous topology theorems, such as Jordan curve theorem, Jordan-Brouwer separation theorem and orientation of compact hypersurface in $\mathbb{R}^n$.
-
-> + [Some Notes for Goertz and Wedhorn's AGI book 2nd Edition](/AGnotes1.pdf): **(Not finished yet. Update at 2022/02/20)** This is a note which aims to fix some gaps in it. The original book see [UT1](https://link.springer.com/content/pdf/10.1007%2F978-3-658-30733-2.pdf). Its official errata see [Errata and Addenda for Algebraic Geometry I](https://www.algebraic-geometry.de/errata/) (I also upload some errata in this website and this book is very nice).
-
-> + [Spectral Sequences](/SpectralSequence.pdf): **(Finished yet)** This is a note about the basic spectral sequences. We first discuss the spectral sequences of exact couples, filered complexes and double complexes. Moreover, we will make some examples to show how them work. Furthermore, we also introduce Cartan-Eilenberg Resolutions and its most important
-application, Grothendieck spectral sequences (We have proved it in the notes!) and its applications such as Leray spectral sequences and so on.
-
-> + [Notes on Basic Complex Geometry](/ComManiBasis.pdf): **(Finished yet, the language is Chinese here)** This notes is about basic Complex Geometry including the most basic Hodge theory, some vanishing theorems, Kodaira’s embedding theorem and Riemann-Roch theorem.
-
-> + **[Many Notes in SDU-Taishan colledge](https://dvlxlwz.github.io/SDUTaishanMathLxl.github.io/)**
 
 ## Undergraduate Research and Summer School
 > + **(2021 Summer) 2021 BICMR Summer School on Differential Geometry:** Here is the homepage: [2021 BICMR DG Summer school](https://bicmr.pku.edu.cn/cn/content/show/17-2464.html). 
@@ -64,16 +52,6 @@ application, Grothendieck spectral sequences (We have proved it in the notes!) a
 > + **Email 1: 15834015310@163.com**
 > + **Email 2: 201900170025@mail.sdu.edu.cn**
 
-## Some Famous Links I Prefer
-> [The Stacks Project](https://stacks.math.columbia.edu/)
-
-> [Allen Hatcher's Homepage](https://pi.math.cornell.edu/~hatcher/)
-
-> [J.S. Milne's Homepage](https://www.jmilne.org/math/)
-
-> [Ravi Vakil's Homepage](https://math.stanford.edu/~vakil/)
-
-> [USTC Math Resources](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
 
 ## Links of My Friends
 > [Lyu Junzhe’s Homepage](https://taiataiat.github.io/)
