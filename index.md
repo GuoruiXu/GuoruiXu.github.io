@@ -1,5 +1,5 @@
 # Guorui Xu's homepage
-## About me
+
 ### Basic Information
 
 <table border="0">
@@ -17,7 +17,7 @@
 </table>
 
 ### About Me
-> I’m an undergraduate student who is interested to algebraic geometry (geometrical instead of arithmetical).
+> I’m an undergraduate student who is interested to Harmonic analysis and representation theory.
 
 ### My CV
 > **Coming Soon.**
