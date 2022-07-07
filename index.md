@@ -49,14 +49,10 @@
 > + **(2020 Autumn) Seminar of Homological Algebra** We discuss the chapter 5-8 of J.J. Rotman's An Introduction to Homological Algebra. I discuss the section 6.1. Here is my lecture notes: [Section6.1](/2020HASe.pdf).
 
 ## My Emails
-> + **Email 1: 15834015310@163.com**
-> + **Email 2: 201900170025@mail.sdu.edu.cn**
+> + **Email 1: 2596929726@qq.com**
+> + **Email 2: 202000171045@mail.sdu.edu.cn**
 
 
 ## Links of My Friends
 > [Lyu Junzhe’s Homepage](https://taiataiat.github.io/)
 
-## Others
-> My ![Visitor Count](https://profile-counter.glitch.me/DVLXLWZ/count.svg) visitors.
-
-> ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DVLXLWZ&show_icons=true&theme=tokyonight)
