@@ -26,7 +26,7 @@
 
 
 ### Seminars and Workshops
-> + **(2022 Spring) Probabilistic number theory and its applications:**(Professor: Xianchang Meng)[Théorie nombres](/Théorie nombres.pdf)
+> + **(2022 Spring) Probabilistic number theory and its applications:**(Professor: Xianchang Meng)[Théorie nombres](/Théorie_nombres.pdf)
 > + **(2022 Summer) Number theory and harmonic analysis - decoupling:**(speaker: Shengwen Gan)
 > + **(2022 Autumn) Lie algebras and its representations:**(organizer：Ziwei Wei)
 > + **(2022 Autumn) Modular form:**(Professor: Bingrong Huang)
