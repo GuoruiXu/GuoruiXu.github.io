@@ -18,21 +18,22 @@
 </table>
 
 ### Mathematics interest
-> + **Harmonic analysis and representation theory.**
+> + **Harmonic analysis and representation theory**
 
 ### Education
 
-> + **2020 —— Now: (Undergraduate) Shandong University - Mathematics college **
+> + **2020 —— Now: (Undergraduate) Shandong University - Mathematics school**
 
 
 ### Seminars
 > + **(2022 Spring) Probabilistic number theory and its applications:**(Professor: Xianchang Meng)
 > + **(2022 Autumn) Lie algebras and its representations:**(organizer：Ziwei Wei)
+> + **(2022 Autumn) Modular form:**(Professor: Bingrong Huang)
 
 ### Mathematical notes
 
 ### Summer School and Undergraduate Research
-> + **(2022 January) SDU pilot program - Galois theory:**(speaker: Yongquan Hu)()
+> + **(2022 January) SDU pilot program - Galois theory:**(speaker: Yongquan Hu)[Galois theory](/Galois_Theory.pdf)
 > + **(2022 Summer) Postgraduate Summer School about Dirac cohomology and Langlands functoriality:**(speaker：Jingsong Huang)
 > + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (advisor: Xianchang Meng) 
 
@@ -40,5 +41,5 @@
 > **Coming Soon.**
 
 ### Links of My Friends
-> [Liu Xiaolong’s Homepage]([(https://dvlxlwz.github.io/)])
+> [xxx’s Homepage]([(https://.github.io/)])
 
