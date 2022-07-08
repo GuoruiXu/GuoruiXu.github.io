@@ -22,7 +22,7 @@
 
 ### Education
 
-> + **2020 —— Now: (Undergraduate) Shandong University - Mathematics college ([Shandong University](https://www.sdu.edu.cn/) and [SDU - Mathematics college](https://www.math.sdu.edu.cn/));**
+> + **2020 —— Now: (Undergraduate) Shandong University - Mathematics college **
 
 
 ### Seminars
@@ -32,6 +32,7 @@
 ### Mathematical notes
 
 ### Summer School and Undergraduate Research
+> + **(2022 January) SDU pilot program - Galois theory:**(speaker: Yongquan Hu)()
 > + **(2022 Summer) Postgraduate Summer School about Dirac cohomology and Langlands functoriality:**(speaker：Jingsong Huang)
 > + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (advisor: Xianchang Meng) 
 
