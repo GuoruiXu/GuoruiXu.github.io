@@ -25,8 +25,9 @@
 > + **2020 —— Now: (Undergraduate) Shandong University - Mathematics school**
 
 
-### Seminars
+### Seminars and Workshops
 > + **(2022 Spring) Probabilistic number theory and its applications:**(Professor: Xianchang Meng)
+> + **(2022 Summer) Number theory and harmonic analysis - decoupling:**(speaker: Shengwen Gan)
 > + **(2022 Autumn) Lie algebras and its representations:**(organizer：Ziwei Wei)
 > + **(2022 Autumn) Modular form:**(Professor: Bingrong Huang)
 
