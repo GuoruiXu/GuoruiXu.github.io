@@ -35,12 +35,11 @@
 
 ### Summer School and Undergraduate Research
 > + **(2022 January) SDU pilot program - Galois theory:**(speaker: Yongquan Hu)[Galois theory](/Galois_Theory.pdf)
-> + **(2022 Summer) Postgraduate Summer School about Dirac cohomology and Langlands functoriality:**(speaker：Jingsong Huang)
 > + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (advisor: Xianchang Meng) 
 
 ### My CV
 > **Coming Soon.**
 
 ### Links of My Friends
-> [xxx’s Homepage]([(https://.github.io/)])
+> [xxx’s Homepage]
 
