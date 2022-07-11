@@ -34,7 +34,7 @@
 ### Mathematical notes
 
 ### Summer School and Undergraduate Research
-> + **(2022 January) SDU pilot program - Galois theory:**(Speaker: Yongquan Hu)[Galois theory](/Galois_Theory.pdf)Which is collected by Yining Cheng.
+> + **(2022 January) SDU pilot program - Galois theory:**(Speaker: Yongquan Hu)[Galois theory](/Galois_Theory.pdf), which is collected by Yining Cheng.
 > + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (Advisor: Xianchang Meng) 
 
 ### My CV
