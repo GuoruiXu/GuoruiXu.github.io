@@ -18,7 +18,7 @@
 </table>
 
 ### Mathematics interest
-> + **Harmonic analysis and representation theory**
+> + **Number theory and representation theory**
 
 ### Education
 
@@ -27,19 +27,19 @@
 
 ### Seminars and Workshops
 > + **(2022 Spring) Probabilistic number theory and its applications:**(Professor: Xianchang Meng)[Probabilistic number theory](/Probabilistic_number_theory.pdf)
-> + **(2022 Summer) Number theory and harmonic analysis - decoupling:**(speaker: Shengwen Gan)
-> + **(2022 Autumn) Lie algebras and its representations:**(organizer：Ziwei Wei)
+> + **(2022 Summer) Number theory and harmonic analysis - decoupling:**(Speaker: Shengwen Gan)
+> + **(2022 Autumn) Lie algebras and its representations:**(Organizer：Ziwei Wei)
 > + **(2022 Autumn) Modular form:**(Professor: Bingrong Huang)
 
 ### Mathematical notes
 
 ### Summer School and Undergraduate Research
-> + **(2022 January) SDU pilot program - Galois theory:**(speaker: Yongquan Hu)[Galois theory](/Galois_Theory.pdf)
-> + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (advisor: Xianchang Meng) 
+> + **(2022 January) SDU pilot program - Galois theory:**(Speaker: Yongquan Hu)[Galois theory](/Galois_Theory.pdf)Which is collected by Yining Cheng.
+> + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (Advisor: Xianchang Meng) 
 
 ### My CV
 > **Coming Soon.**
 
 ### Links of My Friends
-> [xxx’s Homepage]
+> **Coming soon.**
 
