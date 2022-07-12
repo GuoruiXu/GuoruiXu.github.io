@@ -30,7 +30,7 @@
 
 > + **(2022 January) SDU pilot program - Galois theory:**(Speaker: Yongquan Hu) The note is sorted out by Yining Cheng: [Galois theory](/Galois_Theory.pdf)
 > + **(2022 Spring) Probabilistic number theory and its applications:**(Professor: Xianchang Meng)[Chebychev's bias](/Probabilistic_number_theory.pdf)
-> + **(2022 July) Number theory and harmonic analysis - decoupling:**(Speaker: Shengwen Gan)[An introduction to decoupling](/Decoupling.pdf)
+> + **(2022 July) Number theory and harmonic analysis - decoupling:**(Speaker: Shengwen Gan, Qiuyu Fu)[An introduction to decoupling](/Decoupling.pdf)
 
 (further)
 > + **(2022 Autumn) Lie algebras and its representations:**(Organizer：Ziwei Wei)
