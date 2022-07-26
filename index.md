@@ -5,11 +5,11 @@
 <table border="0">
   <tr>
     <td width="70%">
-      <p><b>  Name: Guorui Xu </b></p>
-      <p><b>  Gender：Male </b></p>   
+      <p><b>  Name: Guorui Xu </b></p> 
       <p><b>  Birth: 12/2002 </b></p>
       <p><b>  Address: Jiangsu - China </b></p>
       <p><b>  Email: 202000171045@mail.sdu.edu.cn </b></p>
+      <p><b>  Language: Chinese, English, French </b></p> 
     </td>
     <td width="30%">
       <img src="image.jpg" width="100%"> 
