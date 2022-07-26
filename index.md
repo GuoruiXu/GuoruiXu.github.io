@@ -23,7 +23,7 @@
 
 ### Education
 
-> + **2020 —— Now: (Undergraduate) Shandong University - Mathematics school**
+> + **2020 —— Now: (Undergraduate) Shandong University**
 
 
 ### Seminars and Workshops
