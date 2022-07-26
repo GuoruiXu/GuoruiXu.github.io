@@ -28,7 +28,9 @@
 
 ### Seminars and Workshops
 
-> + **(2022 Autumn)Advanced linear algebra**(Organizer: Shoumin Liu)
+> + **(2021 Autumn)Advanced linear algebra**(Organizer: Shoumin Liu)
+> + **(2021 Autumn)Advanced modern algebra**(Organizer: Lilu Zhao)
+> + **(2022 Spring)Probabilistic number theory and its applications**(Organizer: Xianchang Meng)
 
 (further)
 > + **(2022 Autumn) Lie algebras and its representations:**(Organizer：Ziwei Wei)
@@ -44,3 +46,4 @@
 ### Links
 
 > + [**Larry Guth**](https://math.mit.edu/~lguth/)
+> + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/zh_CN/index/1382877/list/index.htm)
