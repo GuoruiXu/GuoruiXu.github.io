@@ -7,8 +7,8 @@
     <td width="70%">
       <p><b>  Name: Guorui Xu </b></p>
       <p><b>  Gender：Male </b></p>   
-      <p><b>Birth: 12/2002 </b></p>
-      <p><b>  Address: China - Jiangsu - Lianyungang </b></p>
+      <p><b>  Birth: 12/2002 </b></p>
+      <p><b>  Address: Jiangsu - China </b></p>
       <p><b>  Email: 202000171045@mail.sdu.edu.cn </b></p>
     </td>
     <td width="30%">
@@ -44,4 +44,3 @@
 ### Links
 
 > + [**Larry Guth**](https://math.mit.edu/~lguth/)
-> + [**Xianchang Mneg]()
