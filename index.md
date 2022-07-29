@@ -29,11 +29,11 @@
 
 > + **(2021 Autumn)Advanced linear algebra**(Organizer: Shoumin Liu)
 > + **(2021 Autumn)Advanced modern algebra**(Organizer: Lilu Zhao)
-> + **(2022 Spring)Probabilistic number theory and its applications**(Organizer: Xianchang Meng)
 
 (further)
 > + **(2022 Autumn) Lie algebras and its representations:**(Organizer：Ziwei Wei)
-> + **(2022 Autumn) Class field theory:**(Organizer: Junhui Zhu)
+> + **(2022 Autumn) Modular form:**(Organizer: Bingrong Huang)
+> + (2022 Autumn) Class field theory:(Organizer: Junhui Zhu)
 
 ### Undergraduate research
 
