@@ -33,7 +33,6 @@
 (further)
 > + **(2022 Autumn) Lie algebras and its representations:**(Organizer：Ziwei Wei)
 > + **(2022 Autumn) Modular form:**(Organizer: Bingrong Huang)
-> + (2022 Autumn) Class field theory:(Organizer: Junhui Zhu)
 
 ### Undergraduate research
 
