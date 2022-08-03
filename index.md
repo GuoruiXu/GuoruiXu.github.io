@@ -24,8 +24,7 @@
 
 > + **2020 —— Now: (Undergraduate) Shandong University**
 
-
-### Seminars and Workshops
+### Seminars
 
 > + **(2021 Autumn)Advanced linear algebra**(Organizer: Shoumin Liu)
 > + **(2021 Autumn)Advanced modern algebra**(Organizer: Lilu Zhao)
@@ -36,7 +35,7 @@
 
 ### Undergraduate research
 
-> + **(2022.4 – now) Undergraduate Research about Discrete Restriction:** (Advisor: Xianchang Meng) 
+> + **(2022.4 – now)Decoupling for discrete restriction:** (Advisor: Xianchang Meng) 
 
 ### My CV
 > **Coming Soon.**
