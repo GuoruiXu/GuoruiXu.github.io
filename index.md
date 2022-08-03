@@ -18,7 +18,7 @@
 
 ### Mathematical interests
 
-> + **Number theory and representation theory**
+> + **Harmonic analysis and representation theory**
 
 ### Education
 
@@ -35,7 +35,7 @@
 
 ### Undergraduate research
 
-> + **(2022.4 – now)Decoupling for discrete restriction:** (Advisor: Xianchang Meng) 
+> + **(2022.4 – now) Decoupling for discrete restriction:** (Advisor: Xianchang Meng) 
 
 ### My CV
 > **Coming Soon.**
