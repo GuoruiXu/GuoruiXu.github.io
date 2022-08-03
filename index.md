@@ -30,12 +30,13 @@
 > + **(2021 Autumn)Advanced modern algebra**(Organizer: Lilu Zhao)
 
 (further)
-> + **(2022 Autumn) Lie algebras and its representations:**(Organizer：Ziwei Wei)
+
+> + **(2022 Autumn) Lie algebras and representations:**(Organizer：Ziwei Wei)
 > + **(2022 Autumn) Modular form:**(Organizer: Bingrong Huang)
 
 ### Undergraduate research
 
-> + **(2022.4 – now) Decoupling for discrete restriction:** (Advisor: Xianchang Meng) 
+> + **(2022.4 – now) Decoupling for discrete restriction:** (Supervisor: Xianchang Meng) 
 
 ### My CV
 > **Coming Soon.**
