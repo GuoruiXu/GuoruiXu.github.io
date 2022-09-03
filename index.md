@@ -4,14 +4,14 @@
 
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="75%">
       <p><b>  Name: Guorui Xu </b></p> 
       <p><b>  Birth: 12/2002 </b></p>
       <p><b>  Address: Jiangsu - China </b></p>
       <p><b>  Email: 202000171045@mail.sdu.edu.cn </b></p>
     </td>
-    <td width="30%">
-      <img src="Photo.jpg" width="80%"> 
+    <td width="25%">
+      <img src="Photo.jpg" width="900%"> 
     </td>
   </tr>
 </table>
