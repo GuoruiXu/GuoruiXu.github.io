@@ -11,7 +11,7 @@
       <p><b>  Email: 202000171045@mail.sdu.edu.cn </b></p>
     </td>
     <td width="30%">
-      <img src="image.jpg" width="100%"> 
+      <img src="Photo.jpg" width="100%"> 
     </td>
   </tr>
 </table>
