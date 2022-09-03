@@ -33,7 +33,7 @@
 
 > + **(2022 Autumn) Lie algebras and representations:**(Organizer：Ziwei Wei)
 > + **(2022 Autumn) Modular form:**(Organizer: Bingrong Huang)
-
+> + **(2022 Autumn) Local class field theory:**(Organizer: Junhui Zhu)
 ### Undergraduate research
 
 > + **(2022.4 – now) Decoupling for discrete restriction:** (Supervisor: Xianchang Meng) 
