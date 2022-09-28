@@ -8,7 +8,7 @@
       <p><b>  Name: Guorui Xu </b></p> 
       <p><b>  Birth: 12/2002 </b></p>
       <p><b>  Address: Jiangsu - China </b></p>
-      <p><b>  Email: 202000171045 “at" mail.sdu.edu.cn </b></p>
+      <p><b>  Email: gr.xu “at" hotmail.com </b></p>
     </td>
     <td width="25%">
       <img src="Photo.jpg" width="900%"> 
