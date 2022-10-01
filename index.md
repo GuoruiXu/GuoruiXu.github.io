@@ -18,7 +18,7 @@
 
 ### Mathematical interests
 
-> + **Number theory and representation theory**
+> + **Number theory**
 
 ### Education
 
