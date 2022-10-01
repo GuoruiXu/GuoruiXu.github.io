@@ -32,7 +32,7 @@
 
 ### Undergraduate research
 
-> + **(2022.4 – now) Decoupling for discrete restriction:** (Supervisor: Xianchang Meng) 
+> + **(2022.4 – now) Decoupling for discrete restriction:** (Advisor: Xianchang Meng) 
 
 ### My CV
 > **Coming Soon.**
