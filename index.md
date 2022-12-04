@@ -26,8 +26,10 @@
 
 ### Seminars Talks
 
-|**(2021 Autumn) Advanced modern algebra** |  **Flat modules and coherent rings(non-communicative)** |
-| --- | ---|
+| Date | Theme | Organizer | Talk |
+| --- | --- | --- | --- |
+|2021 Autumn|**Advanced modern algebra**|Lilu Zhao| Coherent rings(non-communicative) |
+
  **(2022 Autumn) Modular forms** **p-adic field** **Artin L-function**
 **(2022 Autumn) Lie algebra and representations**  **Theorems of Lie and Engel**
 
@@ -51,3 +53,4 @@
 > + [**Ivan fesenko**](https://ivanfesenko.org/)
 > + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/en/index.htm)
 > + [**Zane Li**](https://people.math.wisc.edu/~zkli/)
+> + [**Ziwei Wei**](https://weiziwei-math.github.io/)
