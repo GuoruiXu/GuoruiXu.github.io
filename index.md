@@ -24,13 +24,11 @@
 
 > + **2020 —— Now: (Undergraduate) Shandong University**
 
-### Seminars
+### Seminars Talks
 
-> + **(2021 Autumn) Advanced linear algebra**(Organizer: Shoumin Liu)
-> + **(2021 Autumn) Advanced modern algebra**(Organizer: Lilu Zhao)
-> + **(2021 Spring) Probabilistic number theory**(Organier: Xianchang Meng)
-> + **(2022 Autumn) An introduction to algebraic geometry**(Organizer: Qifeng Li)
-> + **(2022 Autumn) Modular forms**(Organizer: Bingrong Huang)
+> + |**(2021 Autumn) Advanced modern algebra** |  **Flat modules and coherent rings(non-communicative)** |
+> + **(2022 Autumn) Modular forms** **p-adic field** **Artin L-function**
+> + **(2022 Autumn) Lie algebra and representations**  **Theorems of Lie and Engel**
 
 (further)
 
