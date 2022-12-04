@@ -18,7 +18,7 @@
 
 ### Mathematical interests
 
-> + **I'am interested in number theory, especially for exploring theories of diophantine equations by methods of geometry or harmonic analysis.**
+> + **I'am interested in number theory, especially for exploring the theories of diophantine equations by methods of geometry or harmonic analysis.**
 
 ### Education
 
