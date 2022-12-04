@@ -26,9 +26,10 @@
 
 ### Seminars Talks
 
-> + |**(2021 Autumn) Advanced modern algebra** |  **Flat modules and coherent rings(non-communicative)** |
-> + **(2022 Autumn) Modular forms** **p-adic field** **Artin L-function**
-> + **(2022 Autumn) Lie algebra and representations**  **Theorems of Lie and Engel**
+|**(2021 Autumn) Advanced modern algebra** |  **Flat modules and coherent rings(non-communicative)** |
+| --- | ---|
+ **(2022 Autumn) Modular forms** **p-adic field** **Artin L-function**
+**(2022 Autumn) Lie algebra and representations**  **Theorems of Lie and Engel**
 
 (further)
 
