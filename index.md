@@ -51,6 +51,5 @@
 
 > + [**Guth Larry**](https://math.mit.edu/~lguth/)
 > + [**Ivan fesenko**](https://ivanfesenko.org/)
-> + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/en/index.htm)
 > + [**Zane Li**](https://people.math.wisc.edu/~zkli/)
 > + [**Ziwei Wei**](https://weiziwei-math.github.io/)
