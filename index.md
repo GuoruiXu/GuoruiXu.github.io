@@ -28,10 +28,9 @@
 
 | Date | Theme | Organizer | Talk |
 | --- | --- | --- | --- |
-|2021 Autumn|**Advanced modern algebra**|Lilu Zhao| Coherent rings(non-communicative) |
-
- **(2022 Autumn) Modular forms** **p-adic field** **Artin L-function**
-**(2022 Autumn) Lie algebra and representations**  **Theorems of Lie and Engel**
+| 2021 Autumn | **Advanced modern algebra** | Lilu Zhao | Coherent rings(non-communicative) |
+| 2022 Autumn | [**Modular forms**](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm) | Bingrong Huang | p-adic field, Artin L-function |
+| 2022 Autumn | [**Lie algebra and representations**](https://weiziwei-math.github.io/seminar/Lie/) | Ziwei Wei | Theorems of Lie and Engel |
 
 (further)
 
@@ -49,6 +48,7 @@
 
 ### Links
 
+> + [**Bingrong Huang**](https://faculty.sdu.edu.cn/brhuang/en/index.htm)
 > + [**Guth Larry**](https://math.mit.edu/~lguth/)
 > + [**Ivan fesenko**](https://ivanfesenko.org/)
 > + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/en/index.htm)
