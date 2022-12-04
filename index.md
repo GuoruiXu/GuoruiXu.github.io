@@ -31,7 +31,13 @@
 > + **(2021 Spring) Probabilistic number theory**(Organier: Xianchang Meng)
 > + **(2022 Autumn) An introduction to algebraic geometry**(Organizer: Qifeng Li)
 > + **(2022 Autumn) Modular form**(Organizer: Bingrong Huang)
+
+(further)
+
 > + **(2022 Spring) Algebraic group**(Organizer: Ziwei Wei)
+> + **(2022 Spring) Arithmetic geometry**(Organiser: Hongbo Yin)  
+> + **(2022 Spring) Selected topics of harmonic analysis**(Organiser: Liangpan Li)
+
 
 ### Undergraduate research
 
