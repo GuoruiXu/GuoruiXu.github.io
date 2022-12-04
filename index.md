@@ -49,7 +49,6 @@
 
 ### Links
 
-> + [**Bingrong Huang**](https://faculty.sdu.edu.cn/brhuang/en/index.htm)
 > + [**Guth Larry**](https://math.mit.edu/~lguth/)
 > + [**Ivan fesenko**](https://ivanfesenko.org/)
 > + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/en/index.htm)
