@@ -18,7 +18,7 @@
 
 ### Mathematical interests
 
-> + **Number theory**
+> + **Number theory, especially on diophantine equations**
 
 ### Education
 
@@ -28,16 +28,20 @@
 
 > + **(2021 Autumn) Advanced linear algebra**(Organizer: Shoumin Liu)
 > + **(2021 Autumn) Advanced modern algebra**(Organizer: Lilu Zhao)
-> + **(2022 Autumn) Modular form:**(Organizer: Bingrong Huang)
+> + **(2021 Spring) Probabilistic number theory**(Organier: Xianchang Meng)
+> + **(2022 Autumn) An introduction to algebraic geometry**(Organizer: Qifeng Li)
+> + **(2022 Autumn) Modular form**(Organizer: Bingrong Huang)
+> + **(2022 Spring) Algebraic group**(Organizer: Ziwei Wei)
 
 ### Undergraduate research
 
-> + **(2022.4 – now) Decoupling for discrete restriction:** (Advisor: Xianchang Meng) 
+> + **(2022.4 – now) Number theory and harmonic analysis:** (Advisor: Xianchang Meng) 
 
 ### My CV
 > **Coming Soon.**
 
 ### Links
 
-> + [**Larry Guth**](https://math.mit.edu/~lguth/)
+> + [**Guth Larry**](https://math.mit.edu/~lguth/)
+> + [**Ivan fesenko**](https://ivanfesenko.org/)
 > + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/zh_CN/index/1382877/list/index.htm)
