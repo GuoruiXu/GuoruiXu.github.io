@@ -29,8 +29,9 @@
 | Date | Theme | Organizer | Talk |
 | --- | --- | --- | --- |
 | 2021 Autumn | **Advanced modern algebra** | Lilu Zhao | Coherent rings(non-communicative) |
-| 2022 Autumn | [**Modular forms**](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm) | Bingrong Huang | [p-adic field](p-adic field.pdf), Artin L-function |
-| 2022 Autumn | [**Lie algebra and representations**](https://weiziwei-math.github.io/seminar/Lie/) | [Ziwei Wei]((https://weiziwei-math.github.io/)) | [Theorems of Lie and Engel]() |
+| 2022 Autumn | [**Modular forms**](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm) | Bingrong Huang | [p-adic field]("p-adic field.pdf"), Artin L-function |
+| 2022 Autumn | [**An Introduction to algebraic geometry**] | Qifeng Li | Affine variety, exercise on scheme |
+| 2022 Autumn | [**Lie algebra and representations**](https://weiziwei-math.github.io/seminar/Lie/) | [Ziwei Wei](https://weiziwei-math.github.io/) | [Theorems of Lie and Engel]("Theorems of Lie and Engel.pdf") |
 
 (further)
 
@@ -53,4 +54,3 @@
 > + [**Ivan fesenko**](https://ivanfesenko.org/)
 > + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/en/index.htm)
 > + [**Zane Li**](https://people.math.wisc.edu/~zkli/)
-> + [**Ziwei Wei**](https://weiziwei-math.github.io/)
