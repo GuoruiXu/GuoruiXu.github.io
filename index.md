@@ -22,23 +22,21 @@
 
 ### Education
 
-> + **2020 —— Now: (Undergraduate) Shandong University**
+> + **2024.2——2024.6: BICMR**(Beijing International Center for Mathematical Research)
+> + **2021.6 —— 2024.6: Shandong University**   College of Mathematics
+> + **2020.9 —— 2021.6: Shandong University**   College of Control Science and Engineering
 
-### Seminars Talks
+### Seminars
 
-| Date | Theme | Organizer | Talk |
-| --- | --- | --- | --- |
-| 2021 Autumn | **Advanced modern algebra** | Lilu Zhao | Coherent rings |
-| 2022 Autumn | [**Modular forms**](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm) | Bingrong Huang | [P-adic field](p_adic_field.pdf), Artin L-function |
-| 2022 Autumn | **An introduction to algebraic geometry** | Qifeng Li | [Affine variety](Affine_Varieties.pdf), exercise on schemes |
-| 2022 Autumn | [**Lie algebras and representations**](https://weiziwei-math.github.io/seminar/Lie/) | Ziwei Wei | [Theorems of Lie and Engel](Theorems_of_Lie_and_Engel.pdf) |
-
-(further)
-
-> + **(2023 Spring) Algebraic groups**(Organizer: Ziwei Wei)
-> + **(2023 Spring) Arithmetic geometry**(Organiser: Hongbo Yin)  
+> + **(2023 Spring) Algebraic groups**(Organizer: Ziwei Wei)  
 > + **(2023 Spring) Selected topics of harmonic analysis**(Organiser: Liangpan Li)
-> + **(2023 Spring) Decoupling**(Organizer: Guorui Xu)
+> + **(2023 Spring) Fourier restriction and decoupling**(Organizer: Guorui Xu)
+> + **(2022 Autumn) [Lie algebras and representations]**(https://weiziwei-math.github.io/seminar/Lie/)
+> + **(2022 Autumn) An introduction to algebraic geometry**(Organizer: Qifeng Li)
+> + **(2022 Autumn) [Modular forms]**(https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm)(Organizer: Bingrong Huang)
+> + **(2021 Autumn) Advanced modern algebra** (Organizer: Lilu Zhao)
+
+
 
 ### Undergraduate research
 
