@@ -30,22 +30,19 @@
 
 ### Seminars
 
-> + **(2023 Autumn) Etale cohomology**(Organizer: Shutao Bi)
-> + **(2023 Autumn) Commutative algebras**(Organizer: Chengliang Guo)
-> + **(2023 Spring) Algebraic groups**(Organizer: Ziwei Wei)  
-> + **(2023 Spring) Selected topics of harmonic analysis**(Organiser: Liangpan Li)
-> + **(2023 Spring) Fourier restriction and decoupling**(Organizer: Guorui Xu)
-> + **(2022 Autumn) [Lie algebras and representations](https://weiziwei-math.github.io/seminar/Lie/)**(Organizer: Ziwei Wei)
-> + **(2022 Autumn) An introduction to algebraic geometry**(Organizer: Qifeng Li)
-> + **(2022 Autumn) [Modular forms](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm)(Organizer: Bingrong Huang)**
-> + **(2021 Autumn) Advanced modern algebra** (Organizer: Lilu Zhao)
+> + (2023 Autumn) **Etale cohomology**(Organizer: Shutao Bi)
+> + (2023 Autumn) **Commutative algebras**(Organizer: Chengliang Guo)
+> + (2023 Spring) **Algebraic groups**(Organizer: Ziwei Wei)  
+> + (2023 Spring) **Selected topics of harmonic analysis**(Organiser: Liangpan Li)
+> + (2023 Spring) **Fourier restriction and decoupling**(Organizer: Guorui Xu)
+> + (2022 Autumn) **[Lie algebras and representations](https://weiziwei-math.github.io/seminar/Lie/)**(Organizer: Ziwei Wei)
+> + (2022 Autumn) **An introduction to algebraic geometry**(Organizer: Qifeng Li)
+> + (2022 Autumn) **[Modular forms](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm)(Organizer: Bingrong Huang)**
+> + (2021 Autumn) **Advanced modern algebra** (Organizer: Lilu Zhao)
 
 ### Undergraduate research
 
 > + **(2022.4 – 2023.4) Number theory and harmonic analysis:** (Advisor: Xianchang Meng) 
-
-### My CV
-> **Coming Soon.**
 
 ### Links
 
