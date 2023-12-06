@@ -11,7 +11,7 @@
       <p><b>  Email: gr.xu “at" hotmail.com </b></p>
     </td>
     <td width="25%">
-      <img src="Photo.jpg" width="900%"> 
+      <img src="face.jpg" width="900%"> 
     </td>
   </tr>
 </table>
