@@ -25,8 +25,8 @@
 ### Education
 
 > + **2024.2——2024.6: BICMR** Enhanced Program for Graduate Study
-> + **2021.6 —— 2024.6: Shandong University** B.S. College of Mathematics
-> + **2020.9 —— 2021.6: Shandong University**   College of CSE
+> + **2021 —— now: Shandong University** B.S. College of Mathematics
+> + **2020 —— 2021: Shandong University**   College of CSE
 
 ### Seminars
 
