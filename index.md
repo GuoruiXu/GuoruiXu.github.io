@@ -1,4 +1,4 @@
-# Guorui Xu's homepage
+## Guorui Xu's homepage
 
 ### Basic Information
 
