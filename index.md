@@ -22,18 +22,19 @@
 
 ### Education
 
-> + **2024.2——2024.6: BICMR**(Beijing International Center for Mathematical Research)
+> + **2024.2——2024.6: BICMR** Enhanced Program for Graduate Study
 > + **2021.6 —— 2024.6: Shandong University**   College of Mathematics
 > + **2020.9 —— 2021.6: Shandong University**   College of Control Science and Engineering
 
 ### Seminars
 
+> + **(2023 Autumn) Commutative rings theory**(Organizer: Chengliang Guo)
 > + **(2023 Spring) Algebraic groups**(Organizer: Ziwei Wei)  
 > + **(2023 Spring) Selected topics of harmonic analysis**(Organiser: Liangpan Li)
 > + **(2023 Spring) Fourier restriction and decoupling**(Organizer: Guorui Xu)
-> + **(2022 Autumn) [Lie algebras and representations]**(https://weiziwei-math.github.io/seminar/Lie/)
+> + **(2022 Autumn) [Lie algebras and representations](https://weiziwei-math.github.io/seminar/Lie/)**(Organizer: Ziwei Wei)
 > + **(2022 Autumn) An introduction to algebraic geometry**(Organizer: Qifeng Li)
-> + **(2022 Autumn) [Modular forms]**(https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm)(Organizer: Bingrong Huang)
+> + **(2022 Autumn) [Modular forms](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm)(Organizer: Bingrong Huang)**
 > + **(2021 Autumn) Advanced modern algebra** (Organizer: Lilu Zhao)
 
 
