@@ -20,7 +20,7 @@
 
 ### Mathematical interests
 
-> + **I'am interested in algebraic analysis, especially for D-modules, Reimann-Hilbert Correspondence and its applications in representation theory.**
+> + **I'am interested in algebraic geometry, especially for Higgs bundle and Hodge theory.**
 
 ### Education
 
@@ -30,13 +30,14 @@
 
 ### Seminars
 
+> + (2024 Spring) **P-adic hodge theory**(Organizer: Haoyang Chao)
 > + (2023 Autumn) **Etale cohomology**(Organizer: Shutao Bi)
 > + (2023 Autumn) **Commutative algebras**(Organizer: Chengliang Guo)
-> + (2023 Spring) **Algebraic groups**(Organizer: Ziwei Wei)  
+> + (2023 Spring) **Linear algebraic groups**(Organizer: Ziwei Wei)  
 > + (2023 Spring) **Selected topics of harmonic analysis**(Organiser: Liangpan Li)
 > + (2023 Spring) **Fourier restriction and decoupling**(Organizer: Guorui Xu)
 > + (2022 Autumn) **[Lie algebras and representations](https://weiziwei-math.github.io/seminar/Lie/)**(Organizer: Ziwei Wei)
-> + (2022 Autumn) **An introduction to algebraic geometry**(Organizer: Qifeng Li)
+> + (2022 Autumn) **Algebraic geometry**(Organizer: Qifeng Li)
 > + (2022 Autumn) **[Modular forms](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm)(Organizer: Bingrong Huang)**
 > + (2021 Autumn) **Advanced modern algebra** (Organizer: Lilu Zhao)
 
