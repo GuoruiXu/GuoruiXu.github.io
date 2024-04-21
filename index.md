@@ -24,7 +24,7 @@
 
 ### Education
 
-> + 2024.9 —— : **M1** Université Sorbonne Paris Nord, LAGA
+> + 2024.9 —— : **Master** Université Sorbonne Paris Nord, LAGA
 > + 2024.2——2024.6: BICMR, Enhanced Program for Graduate Study
 > + 2021.9 —— 2024.6: **Bachelor** Shandong University, College of Mathematics
 
