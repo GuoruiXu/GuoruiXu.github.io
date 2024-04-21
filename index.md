@@ -24,7 +24,7 @@
 
 ### Education
 
-> + **2024.9 —— : Sorbonne Paris Nord** LAGA
+> + **2024.9 —— : Université Sorbonne Paris Nord** LAGA
 > + **2024.2——2024.6: BICMR** Enhanced Program for Graduate Study
 > + **2021 —— 2024: Shandong University** College of Mathematics
 > + **2020 —— 2021: Shandong University**   College of CSE
