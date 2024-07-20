@@ -20,12 +20,12 @@
 
 ### Mathematical interests
 
-> + **I'am interested in algebraic geometry, especially for Higgs bundle and Hodge theory.**
+> + **I'am interested in geometry and representations theorey, especially for monodromy and meromorphic connections.**
 
 ### Education
 
-> + 2024.9 —— : **Master** Université Sorbonne Paris Nord, LAGA
-> + 2024.2——2024.6: BICMR, Enhanced Program for Graduate Study
+> + 2024.9 —— 2025.6: **M1 Mathématique** Université de Paris 13, LAGA
+> + 2024.2 —— 2024.6: BICMR, Enhanced Program for Graduate Study
 > + 2021.9 —— 2024.6: **Bachelor** Shandong University, College of Mathematics
 
 ### Seminars
