@@ -7,7 +7,7 @@
     <td width="75%">
       <p><b>  Name: Guorui Xu </b></p> 
       <p><b>  Birth: 12/2002 </b></p>
-      <p><b>  Address: Suzhou - China </b></p>
+      <p><b>  Address: Lianyungang - China </b></p>
       <p><b>  Email: gr.xu “at" hotmail.com </b></p>
     </td>
     <td width="25%">
