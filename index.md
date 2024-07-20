@@ -20,7 +20,7 @@
 
 ### Mathematical interests
 
-> + **I'am interested in geometry and representations theorey, especially for monodromy and meromorphic connections.**
+> + **I'am interested in geometry and representations theorey, especially for monodromy and non-abelian Hodge.**
 
 ### Education
 
