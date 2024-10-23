@@ -20,13 +20,13 @@
 
 ### Mathematical interests
 
-> + **I'am interested in geometry and representations theorey, especially for monodromy and non-abelian Hodge.**
+> + **I'am interested in geometry and representations theorey, especially for character varieties and monodromy representations.**
 
 ### Education
 
-> + 2024.9 —— 2025.6: **M1 Mathématique** Université de Paris 13, LAGA
-> + 2024.2 —— 2024.6: BICMR, Enhanced Program for Graduate Study
-> + 2021.9 —— 2024.6: **Bachelor** Shandong University, College of Mathematics
+> + 2024.9 ——       : **Master Mathématique** Université de Paris 13, LAGA
+> + 2024.2 —— 2024.6: BICMR, Enhanced Program for Graduate Study, Peking
+> + 2021.9 —— 2024.6: **Bachelor** Shandong University, College of Mathematics, China
 
 ### Seminars
 
@@ -49,10 +49,10 @@
 
 > + [**Philip Boalch**](https://webusers.imj-prg.fr/~philip.boalch/)
 > + [**Matteo Tamiozzo**](https://www.math.univ-paris13.fr/~tamiozzo/#/)
-> + [**Guth Larry**](https://math.mit.edu/~lguth/)
 > + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/en/index.htm)
 > + [**Ziwei Wei**](https://weiziwei-math.github.io/)
 
 
+<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/hartshorne.jpg" width=200 height=100 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Robin Hartshorne's <b><i>Algebraic Geometry</i></b>.</p><p>My creator studied algebraic geometry with Oscar Zariski and David Mumford at Harvard, and with J.-P. Serre and A. Grothendieck in Paris. His current research interest is geometry of projective varieties and vector bundles. He is also an accomplished musician, playing flute, piano, and shakuhachi.</p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>   
 
-<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/hartshorne.jpg" width=280 height=140 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Robin Hartshorne's <b><i>Algebraic Geometry</i></b>.</p><p>My creator studied algebraic geometry with Oscar Zariski and David Mumford at Harvard, and with J.-P. Serre and A. Grothendieck in Paris. My creator's current  research interest is the geometry of projective varieties and vector  bundles. He is also an accomplished musician, playing flute, piano, and traditional Japanese music on the shakuhachi.</p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>   
+<a href="https://info.flagcounter.com/KcTX"><img src="https://s11.flagcounter.com/count/KcTX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_1/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
