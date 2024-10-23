@@ -47,6 +47,12 @@
 
 ### Links
 
+> + [**Philip Boalch**](https://webusers.imj-prg.fr/~philip.boalch/)
+> + [**Matteo Tamiozzo**](https://www.math.univ-paris13.fr/~tamiozzo/#/)
 > + [**Guth Larry**](https://math.mit.edu/~lguth/)
 > + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/en/index.htm)
 > + [**Ziwei Wei**](https://weiziwei-math.github.io/)
+
+
+
+<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/hartshorne.jpg" width=280 height=140 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Robin Hartshorne's <b><i>Algebraic Geometry</i></b>.</p><p>My creator studied algebraic geometry with Oscar Zariski and David Mumford at Harvard, and with J.-P. Serre and A. Grothendieck in Paris. My creator's current  research interest is the geometry of projective varieties and vector  bundles. He is also an accomplished musician, playing flute, piano, and traditional Japanese music on the shakuhachi.</p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>   
