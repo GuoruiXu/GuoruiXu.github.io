@@ -7,7 +7,7 @@
     <td width="75%">
       <p><b>  Name: Guorui Xu </b></p> 
       <p><b>  Birth: 12/2002 </b></p>
-      <p><b>  Address: Lianyungang - China </b></p>
+      <p><b>  Address: Paris </b></p>
       <p><b>  Email: gr.xu “at" hotmail.com </b></p>
     </td>
     <td width="25%">
@@ -49,10 +49,9 @@
 
 > + [**Philip Boalch**](https://webusers.imj-prg.fr/~philip.boalch/)
 > + [**Matteo Tamiozzo**](https://www.math.univ-paris13.fr/~tamiozzo/#/)
-> + [**Xianchang Meng**](https://faculty.sdu.edu.cn/mengxianchang/en/index.htm)
 > + [**Ziwei Wei**](https://weiziwei-math.github.io/)
 
 
-<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/hartshorne.jpg" width=200 height=100 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Robin Hartshorne's <b><i>Algebraic Geometry</i></b>.</p><p>My creator studied algebraic geometry with Oscar Zariski and David Mumford at Harvard, and with J.-P. Serre and A. Grothendieck in Paris. His current research interest is geometry of projective varieties and vector bundles. He is also an accomplished musician, playing flute, piano, and shakuhachi.</p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>   
+<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/hartshorne.jpg" width=300 height=150 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Robin Hartshorne's <b><i>Algebraic Geometry</i></b>.</p><p>My creator studied algebraic geometry with Oscar Zariski and David Mumford at Harvard, and with J.-P. Serre and A. Grothendieck in Paris. His current research interest is geometry of projective varieties and vector bundles. He is also an accomplished musician, playing flute, piano, and shakuhachi.</p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>   
 
 <a href="https://info.flagcounter.com/KcTX"><img src="https://s11.flagcounter.com/count/KcTX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_1/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
