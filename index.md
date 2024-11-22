@@ -1,8 +1,6 @@
-## Guorui Xu's homepage
-
 ### Basic Information
 
-<table border="0">
+<table>
   <tr>
     <td width="75%">
       <p><b>  Name: Guorui Xu </b></p> 
@@ -16,7 +14,7 @@
   </tr>
 </table>
 
-> + Here is my **[CV](CV.pdf)**
+> + Here is my **[CV]**
 
 ### Mathematical interests
 
@@ -51,7 +49,10 @@
 > + [**Matteo Tamiozzo**](https://www.math.univ-paris13.fr/~tamiozzo/#/)
 > + [**Ziwei Wei**](https://weiziwei-math.github.io/)
 
+### Others
+> <small>La plupart de mes camarades plus brillants sont d’ailleurs devenus des mathématiciens compétents et réputés...Ils ont fait des choses, des belles choses parfois, dans un contexte déjà tout fait, auquel ils n’auraient pas songé à toucher. Ils sont restés prisonniers sans le savoir de ces cercles invisibles et impérieux, qui délimitent un Univers dans un milieu et à une époque donnés. Pour les franchir, il aurait fallu qu’ils retrouvent en eux cette capacité qui était leur à leur naissance, tout comme elle était mienne : la capacité d’être seul.</small>  
+*-Alexander Grothendieck, Recoltes et Semailles, 2.2*
 
-<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/hartshorne.jpg" width=500 height=180 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Robin Hartshorne's <b><i>Algebraic Geometry</i></b>.</p><p>My creator studied algebraic geometry with Oscar Zariski and David Mumford at Harvard, and with J.-P. Serre and A. Grothendieck in Paris. His current research interest is geometry of projective varieties and vector bundles. He is also an accomplished musician, playing flute, piano, and shakuhachi.</p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>   
+
 
 <a href="https://info.flagcounter.com/KcTX"><img src="https://s11.flagcounter.com/count/KcTX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_1/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
