@@ -14,11 +14,11 @@
   </tr>
 </table>
 
-> + Here is my **[CV]**
+> + Here is my **[CV](CV.pdf)**
 
 ### Mathematical interests
 
-> + **I'am interested in geometry and representations theorey, especially for relative character varieties and monodromy representations.**
+> + **I'am interested in the intersection of geometry, representations theorey and mathematical physics, especially for character varieties and monodromy representations.**
 
 ### Education
 
