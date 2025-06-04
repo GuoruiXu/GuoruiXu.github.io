@@ -22,8 +22,8 @@
 
 ### Education
 
-> + 2024.9 ——       : **Master Mathématique** Université de Paris 13, LAGA
-> + 2024.2 —— 2024.6: BICMR, Enhanced Program for Graduate Study, Peking
+> + 2025.9 —— 2026.7: **Master2** PGSM Program in Paris Centre
+> + 2024.9 —— 2025.6: **Master1** en Mathématiques in Université de Paris 13, LAGA
 > + 2021.9 —— 2024.6: **Bachelor** Shandong University, College of Mathematics, China
 
 ### Seminars
