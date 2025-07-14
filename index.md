@@ -18,7 +18,7 @@
 
 ### Mathematical interests
 
-> + **I'am interested in the intersection of geometry, representations theorey and mathematical physics, especially for character varieties and monodromy representations.**
+> + **I'am interested in the intersection of topology of algebraic varieties, representations theorey and the theory of algebraic differential equations.**
 
 ### Education
 
