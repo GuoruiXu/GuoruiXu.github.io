@@ -18,7 +18,7 @@
 
 ### Mathematical interests
 
-> + **I'am interested in the intersection of topology of algebraic varieties, representations theorey and the theory of algebraic differential equations.**
+> + **I'am interested in the irregular singularities of certain algebraic differential equations.**
 
 ### Education
 
@@ -28,13 +28,11 @@
 
 ### Seminars
 
-> + (2024 Spring) **P-adic hodge theory**(Organizer: Haoyang Chao)
-> + (2023 Autumn) **Etale cohomology**(Organizer: Shutao Bi)
-> + (2023 Autumn) **Commutative algebras**(Organizer: Chengliang Guo)
-> + (2023 Spring) **Linear algebraic groups**(Organizer: Ziwei Wei)  
+> + (2025 Autumn) **Hyperkahler manifolds**(Organizer: M2 students)
+> + (2025 Autumn) **Super-connection**(Organizer: Shenshu)
 > + (2023 Spring) **Selected topics of harmonic analysis**(Organiser: Liangpan Li)
 > + (2023 Spring) **Fourier restriction and decoupling**(Organizer: Guorui Xu)
-> + (2022 Autumn) **[Lie algebras and representations](https://weiziwei-math.github.io/seminar/Lie/)**(Organizer: Ziwei Wei)
+> + (2022 Aut-2023 Spr) **[Lie algebras and linear algebraic group](https://weiziwei-math.github.io/seminar/Lie/)**(Organizer: Ziwei Wei)
 > + (2022 Autumn) **Algebraic geometry**(Organizer: Qifeng Li)
 > + (2022 Autumn) **[Modular forms](https://faculty.sdu.edu.cn/brhuang/zh_CN/zdylm/1477560/list/index.htm)(Organizer: Bingrong Huang)**
 > + (2021 Autumn) **Advanced modern algebra** (Organizer: Lilu Zhao)
