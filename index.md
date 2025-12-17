@@ -18,7 +18,7 @@
 
 ### Mathematical interests
 
-> + **I'am interested in the stokes phenomenon of ode and representations of Lie algebras.**
+> + **I'am interested in representation theory of Lie algebras and its applications in stokes phenomenon of ode.**
 
 ### Education
 
