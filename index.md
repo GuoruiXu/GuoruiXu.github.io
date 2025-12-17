@@ -18,7 +18,7 @@
 
 ### Mathematical interests
 
-> + **I'am interested in the irregular singularities of certain algebraic differential equations.**
+> + **I'am interested in the stokes phenomenon of ode and representations of Lie algebras.**
 
 ### Education
 
@@ -28,7 +28,6 @@
 
 ### Seminars
 
-> + (2025 Autumn) **Hyperkahler manifolds**(Organizer: M2 students)
 > + (2025 Autumn) **Super-connection**(Organizer: Shenshu)
 > + (2023 Spring) **Selected topics of harmonic analysis**(Organiser: Liangpan Li)
 > + (2023 Spring) **Fourier restriction and decoupling**(Organizer: Guorui Xu)
