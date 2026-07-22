@@ -18,12 +18,12 @@
 
 ### Mathematical interests
 
-> + **I'am interested in representation theory of Lie algebras and its applications in stokes phenomenon of certain ODEs.**
+> + **I'am interested in geometry of meromorphic connections and its relations to integrable systems.**
 
 ### Education
 
-> + 2025.9 —— 2026.7: **Master2** PGSM Program in Paris Centre
-> + 2024.9 —— 2025.6: **Master1** en Mathématiques in Université de Paris 13, LAGA
+> + 2026.10 —— : **Doctorant** IMJ-PRG, Université Paris Cité
+> + 2024.9 —— 2026.9: **Master** en Mathématiques in Université Paris 13, LAGA
 > + 2021.9 —— 2024.6: **Bachelor** Shandong University, College of Mathematics, China
 > + 2020.9 —— 2021.6: Shandong University, School of Control Science and Engineering, China
 
@@ -44,6 +44,7 @@
 ### Links
 
 > + [**Philip Boalch**](https://webusers.imj-prg.fr/~philip.boalch/)
+> + [**Charles De Clercq**](https://www.math.univ-paris13.fr/~declercq/)
 > + [**Matteo Tamiozzo**](https://www.math.univ-paris13.fr/~tamiozzo/#/)
 > + [**Ziwei Wei**](https://weiziwei-math.github.io/)
 
